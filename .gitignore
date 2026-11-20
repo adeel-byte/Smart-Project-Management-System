@@ -1,0 +1,40 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Django
+staticfiles/
+media/
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# IDE
+.idea/
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+.idea/
+SPMS_Project_Report.csv
+
+backend/.env
